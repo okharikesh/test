@@ -75,19 +75,11 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okharikesh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=okharikesh&theme=tokyonight&hide_border=false" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=okharikesh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=okharikesh&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=okharikesh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okharikesh&theme=tokyonight&hide_border=false&layout=compact" />
-</p>
-
----
 
 # 🏆 GitHub Trophies
 
